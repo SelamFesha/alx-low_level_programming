@@ -1,4 +1,9 @@
-#include "main.h"
+/*
+ * File: 5-rev_string.c
+ * Auth: Brennan D Baraban
+ */
+
+#include "holberton.h"
 
 /**
  * rev_string - Reverses a string.
