@@ -2,16 +2,18 @@
 #define LISTS_H
 
 #include <stdlib.h>
+#include <string.h>
 #include <stdio.h>
+#include "lists.h"
 
 /**
  * struct listint_s - singly linked list
  * @n: integer
  * @next: points to the next node
  *
- * Description: alx_low level programming 
- ** more singly linked lists
- */
+ * Description: singly linked list node structure
+ * 
+ */3wd
 typedef struct listint_s
 {
     int n;
